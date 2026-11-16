@@ -6,3 +6,5 @@ def multiplicacao(a,b):
 
 def subtracao(a,b):
     return a - b
+
+print("Hello, World!")
